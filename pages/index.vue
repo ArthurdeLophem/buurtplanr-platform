@@ -1,2 +1,3 @@
 <template>
-</template>  
+    <mapping3d />
+</template>
