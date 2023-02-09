@@ -1,3 +1,3 @@
 <template>
-    <NuxtLink to="/usercreation">About</NuxtLink>
+    <Navigation />
 </template>
