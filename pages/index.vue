@@ -1,3 +1,3 @@
 <template>
-    <mapping3d />
+    <NuxtLink to="/usercreation">About</NuxtLink>
 </template>

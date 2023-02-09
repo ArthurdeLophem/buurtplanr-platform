@@ -24,6 +24,9 @@ module.exports = {
         "h3": "1.5rem",
         "body": "1rem",
       },
+      height: {
+        "itemsDashboard": "256px"
+      }
     },
   },
   plugins: [],
